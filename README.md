@@ -1,1 +1,2 @@
-# Industry_site_cg
+Computer graphics project created using OpenGL.
+This project depicts the industrial site.
